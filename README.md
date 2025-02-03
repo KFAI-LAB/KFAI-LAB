@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 1. Create Repository
+   Form Template
+### 2. Push your Code
+  Guide 

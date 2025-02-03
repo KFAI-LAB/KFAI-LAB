@@ -1,4 +1,4 @@
-## Knowledge Fusion and Artificial Intelligence Lab 👋
+## Knowledge Fusion and Artificial Intelligence Lab 🔭
 
 <!--
 **KFAI-LAB/KFAI-LAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

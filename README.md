@@ -1,4 +1,4 @@
-## Knowledge Fusion and Artificial Intelligence Lab 
+## Knowledge Fusion and Artificial Intelligence Lab 💻
 
 ### 1. Create Repository
    - Copy and pasting README Form

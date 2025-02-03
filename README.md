@@ -1,6 +1,6 @@
-## Knowledge Fusion and Artificial Intelligence Lab 📋
+## Knowledge Fusion and Artificial Intelligence Lab 
 
 ### 1. Create Repository
-   Form Template : [Form Template.md](github.com/KFAI-LAB/KFAI-LAB/blob/main/Form%20Template.md)
+   Form Template : [Form Template.md](github.com/KFAI-LAB/KFAI-LAB/blob/main/Form_Template.md)
 ### 2. Push your Code
   Guide 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20We're%20KFAI!&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20%20We're%20%20KFAI!&fontSize=90&animation=fadeIn)
 
 # 💡 Knowledge Fusion and Artificial Intelligence Lab
 
